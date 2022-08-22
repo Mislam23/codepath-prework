@@ -42,7 +42,7 @@ Describe any challenges encountered while building the app.
 
 >Learned to utilize the device simulator provided by Xcode as well as storyboard's drag and drop feature.
 
->Researched swift sytax and feature possibilities for future development.
+>Researched swift syntax and feature possibilities for future development.
 
 ## License
 
