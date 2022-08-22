@@ -36,6 +36,10 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+>Learned to setup Xcode IDE for the first time.
+>Navigated syntax use similarities and differences in swift programming language compared to JavaScript.
+>Learned to utilize the device simulator provided by Xcode as well as storyboard's drag and drop feature.
+>Researched swift sytax and feature possibilities for future development.
 
 ## License
 
